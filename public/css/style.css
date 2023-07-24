@@ -1,0 +1,21 @@
+table, th, td {
+  border: 1px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+}
+body {
+    background-image: url("../img/header.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+p{
+  color: red;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+i{
+  color: rgb(0, 0, 0);
+}
